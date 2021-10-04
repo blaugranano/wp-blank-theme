@@ -11,7 +11,7 @@ Completely blank WordPress theme.
 
 == Description ==
 
-This is a completely blank WordPress theme for using WordPress as a backend-only solution.
+This WordPress theme is a completely blank theme suitable for using WordPress as a backend only.
 
 == Changelog ==
 
